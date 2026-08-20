@@ -40,6 +40,7 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | - | 2026-08-20 |
 | [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | Python | 2026-08-20 |
 | [open-design](https://github.com/UnknownObject777/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | - | 2026-08-20 |
 | [opendroid](https://github.com/UnknownObject777/opendroid) | Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation. | - | 2026-08-18 |
@@ -47,7 +48,6 @@
 | [cchenhao-coding-tui](https://github.com/UnknownObject777/cchenhao-coding-tui) | - | TypeScript | 2026-08-10 |
 | [Word-Formatter-Pro](https://github.com/UnknownObject777/Word-Formatter-Pro) | 一款桌面应用程序，可将格式混乱的 Word 文档（及兼容格式）一键转换为符合规范的专业文档，实现排版工作自动化。 | Python | 2026-08-02 |
 | [grok-build](https://github.com/UnknownObject777/grok-build) | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. | - | 2026-07-15 |
-| [ai-fitness-agent](https://github.com/UnknownObject777/ai-fitness-agent) | - | Python | 2026-05-04 |
 <!-- REPOS:END -->
 
 ## 📫 联系我
