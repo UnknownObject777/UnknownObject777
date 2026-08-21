@@ -1,12 +1,11 @@
 # Hi, I'm Chenhao Cui 👋
 
-🎓 深圳大学 · 研究生在读 | 📍 深圳
+🎓 深圳大学 · 研究生在读 | 📍 深圳 | 🌐 [个人主页](https://unknownobject777.github.io)
 
 ## 🧭 我关注的方向
 
 - **AI Agent 与 Coding Harness**：AI 编程助手、harness/TUI 工具链、Agent Skills 生态（Claude Code / Codex / 各类 CLI Agent）
 - **移动端智能体**：基于视觉语言模型的 Android/手机自动化 Agent
-- **联邦学习与多模态**：联邦学习基准、多模态情感分析（token 级对齐）等研究方向
 - **AI 生产力工具**：文档智能排版、桌面工作台等本地化 AI 应用
 
 ## 🛠️ 代表项目
