@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) | Technical guide to making money and investing（最全赚钱投资指南） | - | ⭐ 3456 |
-| [pireel/pireel](https://github.com/pireel/pireel) | The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP. | TypeScript | ⭐ 1006 |
-| [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | AI-native design editor. Open-source Figma alternative. | TypeScript | ⭐ 7938 |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | TypeScript | ⭐ 185210 |
-| [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) | OpenMinis — The AI Agent app across platforms. Fully free and open source. | Swift | ⭐ 3908 |
-| [toby-bridges/92-humanizer](https://github.com/toby-bridges/92-humanizer) | 人味诊断镜:诊断中文长文的 AI 味/人味,不优化检测分、不生造锚点、不打分。附支撑文章与预注册评测。 | Python | ⭐ 1 |
+| [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) | Technical guide to making money and investing（最全赚钱投资指南） | - | ⭐ 3497 |
+| [pireel/pireel](https://github.com/pireel/pireel) | The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP. | TypeScript | ⭐ 1010 |
+| [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | AI-native design editor. Open-source Figma alternative. | TypeScript | ⭐ 7952 |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | TypeScript | ⭐ 188289 |
+| [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) | OpenMinis — The AI Agent app across platforms. Fully free and open source. | Swift | ⭐ 3926 |
+| [toby-bridges/92-humanizer](https://github.com/toby-bridges/92-humanizer) | 人味诊断镜:诊断中文长文的 AI 味/人味,不优化检测分、不生造锚点、不打分。附支撑文章与预注册评测。 | Python | ⭐ 2 |
 | [XiaomingX/mimofan](https://github.com/XiaomingX/mimofan) | mimofan - AI coding agent platform | Rust | ⭐ 31 |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | ⭐ 23253 |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | ⭐ 23264 |
 | [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) | 🔎 互联网内推信息（社招、校招、实习） | Shell | ⭐ 2999 |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | JavaScript | ⭐ 89126 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | JavaScript | ⭐ 89302 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,9 +39,9 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-23 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-23 |
 | [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | Python | 2026-08-22 |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-22 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-22 |
 | [open-pencil](https://github.com/UnknownObject777/open-pencil) | AI-native design editor. Open-source Figma alternative. | - | 2026-08-21 |
 | [open-design](https://github.com/UnknownObject777/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | - | 2026-08-20 |
 | [opendroid](https://github.com/UnknownObject777/opendroid) | Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation. | - | 2026-08-18 |
