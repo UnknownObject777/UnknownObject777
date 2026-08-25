@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) | Technical guide to making money and investing（最全赚钱投资指南） | - | ⭐ 3497 |
-| [pireel/pireel](https://github.com/pireel/pireel) | The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP. | TypeScript | ⭐ 1010 |
-| [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | AI-native design editor. Open-source Figma alternative. | TypeScript | ⭐ 7952 |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | TypeScript | ⭐ 188289 |
-| [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) | OpenMinis — The AI Agent app across platforms. Fully free and open source. | Swift | ⭐ 3926 |
-| [toby-bridges/92-humanizer](https://github.com/toby-bridges/92-humanizer) | 人味诊断镜:诊断中文长文的 AI 味/人味,不优化检测分、不生造锚点、不打分。附支撑文章与预注册评测。 | Python | ⭐ 2 |
-| [XiaomingX/mimofan](https://github.com/XiaomingX/mimofan) | mimofan - AI coding agent platform | Rust | ⭐ 31 |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | ⭐ 23264 |
-| [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) | 🔎 互联网内推信息（社招、校招、实习） | Shell | ⭐ 2999 |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | JavaScript | ⭐ 89302 |
+| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS | TypeScript | ⭐ 1818 |
+| [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | Python | ⭐ 2496 |
+| [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) | PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。 | Vue | ⭐ 4215 |
+| [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app) | A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons. | TypeScript | ⭐ 2227 |
+| [itshen/source-reading-methodology](https://github.com/itshen/source-reading-methodology) | 带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行 | Python | ⭐ 114 |
+| [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) | Technical guide to making money and investing（最全赚钱投资指南） | - | ⭐ 3522 |
+| [pireel/pireel](https://github.com/pireel/pireel) | The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP. | TypeScript | ⭐ 1015 |
+| [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | AI-native design editor. Open-source Figma alternative. | TypeScript | ⭐ 7976 |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | TypeScript | ⭐ 192201 |
+| [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) | OpenMinis — The AI Agent app across platforms. Fully free and open source. | Swift | ⭐ 3939 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,14 +39,14 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-23 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-23 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-24 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-24 |
+| [source-reading-methodology](https://github.com/UnknownObject777/source-reading-methodology) | 带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行 | - | 2026-08-23 |
 | [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | Python | 2026-08-22 |
 | [open-pencil](https://github.com/UnknownObject777/open-pencil) | AI-native design editor. Open-source Figma alternative. | - | 2026-08-21 |
 | [open-design](https://github.com/UnknownObject777/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | - | 2026-08-20 |
 | [opendroid](https://github.com/UnknownObject777/opendroid) | Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation. | - | 2026-08-18 |
 | [paiban-studio](https://github.com/UnknownObject777/paiban-studio) | AI 驱动的 Office 排版本地工作台：LLM 不写脚本，只产出声明式排版命令——规则集保样式、结构摘要省 token、版本链可回滚、全程本地 | TypeScript | 2026-08-18 |
-| [cchenhao-coding-tui](https://github.com/UnknownObject777/cchenhao-coding-tui) | - | TypeScript | 2026-08-10 |
 <!-- REPOS:END -->
 
 ## 📫 联系我
