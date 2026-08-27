@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS | TypeScript | ⭐ 2567 |
-| [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | Python | ⭐ 2506 |
-| [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) | PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。 | Vue | ⭐ 4217 |
-| [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app) | A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons. | TypeScript | ⭐ 2227 |
-| [itshen/source-reading-methodology](https://github.com/itshen/source-reading-methodology) | 带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行 | Python | ⭐ 123 |
-| [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) | Technical guide to making money and investing（最全赚钱投资指南） | - | ⭐ 3538 |
-| [pireel/pireel](https://github.com/pireel/pireel) | The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP. | TypeScript | ⭐ 1022 |
-| [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | AI-native design editor. Open-source Figma alternative. | TypeScript | ⭐ 7989 |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | TypeScript | ⭐ 195447 |
-| [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) | OpenMinis — The AI Agent app across platforms. Fully free and open source. | Swift | ⭐ 3962 |
+| [lipku/LiveTalking](https://github.com/lipku/LiveTalking) | Real time interactive streaming digital human | Python | ⭐ 9246 |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | CSS | ⭐ 27238 |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Python | ⭐ 37652 |
+| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS | TypeScript | ⭐ 3265 |
+| [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | Python | ⭐ 2531 |
+| [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) | PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。 | Vue | ⭐ 4215 |
+| [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app) | A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons. | TypeScript | ⭐ 2238 |
+| [itshen/source-reading-methodology](https://github.com/itshen/source-reading-methodology) | 带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行 | Python | ⭐ 125 |
+| [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) | Technical guide to making money and investing（最全赚钱投资指南） | - | ⭐ 3561 |
+| [pireel/pireel](https://github.com/pireel/pireel) | The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP. | TypeScript | ⭐ 1064 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,14 +39,14 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-25 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-25 |
+| [cv-automaker](https://github.com/UnknownObject777/cv-automaker) | JD 驱动的简历自动化维护系统（项目级 skill）：主档案多文件 Markdown + 按 JD 裁剪 + 多模板 HTML 产出 + 投递全生命周期归档 | HTML | 2026-08-27 |
+| [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | JavaScript | 2026-08-26 |
+| [unslop-zh](https://github.com/UnknownObject777/unslop-zh) | - | - | 2026-08-26 |
+| [droidvoice](https://github.com/UnknownObject777/droidvoice) | - | Kotlin | 2026-08-26 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-26 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-26 |
 | [source-reading-methodology](https://github.com/UnknownObject777/source-reading-methodology) | 带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行 | - | 2026-08-23 |
-| [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | Python | 2026-08-22 |
 | [open-pencil](https://github.com/UnknownObject777/open-pencil) | AI-native design editor. Open-source Figma alternative. | - | 2026-08-21 |
-| [open-design](https://github.com/UnknownObject777/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | - | 2026-08-20 |
-| [opendroid](https://github.com/UnknownObject777/opendroid) | Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation. | - | 2026-08-18 |
-| [paiban-studio](https://github.com/UnknownObject777/paiban-studio) | AI 驱动的 Office 排版本地工作台：LLM 不写脚本，只产出声明式排版命令——规则集保样式、结构摘要省 token、版本链可回滚、全程本地 | TypeScript | 2026-08-18 |
 <!-- REPOS:END -->
 
 ## 📫 联系我
