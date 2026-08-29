@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [huggingface/agents-course](https://github.com/huggingface/agents-course) | This repository contains the Hugging Face Agents Course. | MDX | ⭐ 31596 |
-| [lipku/LiveTalking](https://github.com/lipku/LiveTalking) | Real time interactive streaming digital human | Python | ⭐ 9256 |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | CSS | ⭐ 27379 |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Python | ⭐ 37758 |
-| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS | TypeScript | ⭐ 3394 |
-| [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | Python | ⭐ 2547 |
-| [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) | PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。 | Vue | ⭐ 4216 |
-| [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app) | A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons. | TypeScript | ⭐ 2239 |
-| [itshen/source-reading-methodology](https://github.com/itshen/source-reading-methodology) | 带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行 | Python | ⭐ 126 |
-| [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) | Technical guide to making money and investing（最全赚钱投资指南） | - | ⭐ 3573 |
+| [XiaoDuoYa/AeVideoGen](https://github.com/XiaoDuoYa/AeVideoGen) | AeVideoGen Skill is a toolkit for creating commercial-grade AE-style product launches, feature explainers, UI interaction demos, and promotional videos. It provides an end-to-end workflow covering creative planning, reference video analysis, asset reconstruction, web-based motion rendering, and quality assurance. | Python | ⭐ 6 |
+| [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) | Repo for AI Agents The Definitive Guide | Jupyter Notebook | ⭐ 1323 |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | Notes of the book System Desgin Interview - An Insider's Guide | - | ⭐ 14197 |
+| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. | TypeScript | ⭐ 527 |
+| [Lau-Jonathan/LLM-Agent-Interview-Guide](https://github.com/Lau-Jonathan/LLM-Agent-Interview-Guide) | 🔥 大模型 & Agent 面试八股文完全指南 \| LLM & Agent Interview Preparation Guide | - | ⭐ 759 |
+| [huggingface/agents-course](https://github.com/huggingface/agents-course) | This repository contains the Hugging Face Agents Course. | MDX | ⭐ 31808 |
+| [lipku/LiveTalking](https://github.com/lipku/LiveTalking) | Real time interactive streaming digital human | Python | ⭐ 9267 |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | CSS | ⭐ 27451 |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Python | ⭐ 37804 |
+| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS | TypeScript | ⭐ 3414 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,11 +39,11 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
+| [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | HTML | 2026-08-29 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-28 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-28 |
 | [droidvoice](https://github.com/UnknownObject777/droidvoice) | - | Kotlin | 2026-08-28 |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-27 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-27 |
 | [cv-automaker](https://github.com/UnknownObject777/cv-automaker) | JD 驱动的简历自动化维护系统（项目级 skill）：主档案多文件 Markdown + 按 JD 裁剪 + 多模板 HTML 产出 + 投递全生命周期归档 | HTML | 2026-08-27 |
-| [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | JavaScript | 2026-08-26 |
 | [unslop-zh](https://github.com/UnknownObject777/unslop-zh) | - | - | 2026-08-26 |
 | [source-reading-methodology](https://github.com/UnknownObject777/source-reading-methodology) | 带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行 | - | 2026-08-23 |
 | [open-pencil](https://github.com/UnknownObject777/open-pencil) | AI-native design editor. Open-source Figma alternative. | - | 2026-08-21 |
