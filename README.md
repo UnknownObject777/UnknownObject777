@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | ⭐ 5074 |
-| [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) | Claude Code Skills | Shell | ⭐ 206 |
-| [openocta/openocta](https://github.com/openocta/openocta) | OpenOcta is an open-source AIOps Agent installed on Windows & macOS. | TypeScript | ⭐ 3044 |
-| [keephq/keep](https://github.com/keephq/keep) | The open-source AIOps and alert management platform | Python | ⭐ 12267 |
-| [bcefghj/multi-agent-aiops](https://github.com/bcefghj/multi-agent-aiops) | 企业级多Agent智能运维系统 AIOps \| Python+Java+Go \| 面试级全套项目 \| 监控告警+根因分析+故障自愈+变更审批 | Python | ⭐ 300 |
-| [vikingmute/review-forge](https://github.com/vikingmute/review-forge) | review-forge is an Agent Skill for structured, auditable code review workflows | - | ⭐ 214 |
+| [yuyuanweb/mcp-mianshiya-server](https://github.com/yuyuanweb/mcp-mianshiya-server) | 基于 Spring AI 的面试鸭搜索题目的 MCP Server 服务，快速让 AI 搜索企业面试真题和答案 | Java | ⭐ 138 |
+| [liyupi/mianshiya](https://github.com/liyupi/mianshiya) | 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、LLM面试题、Prompt工程面试题、系统设计面试题等1万多道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮 | TypeScript | ⭐ 5829 |
+| [Mylszd/PaperBanana-CN](https://github.com/Mylszd/PaperBanana-CN) | AI 驱动的学术论文配图生成工具 — 全中文界面，一键安装，国内直连 | Python | ⭐ 263 |
+| [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | ⭐ 5085 |
+| [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) | Claude Code Skills | Shell | ⭐ 207 |
+| [openocta/openocta](https://github.com/openocta/openocta) | OpenOcta is an open-source AIOps Agent installed on Windows & macOS. | TypeScript | ⭐ 3049 |
+| [keephq/keep](https://github.com/keephq/keep) | The open-source AIOps and alert management platform | Python | ⭐ 12269 |
+| [bcefghj/multi-agent-aiops](https://github.com/bcefghj/multi-agent-aiops) | 企业级多Agent智能运维系统 AIOps \| Python+Java+Go \| 面试级全套项目 \| 监控告警+根因分析+故障自愈+变更审批 | Python | ⭐ 304 |
+| [vikingmute/review-forge](https://github.com/vikingmute/review-forge) | review-forge is an Agent Skill for structured, auditable code review workflows | - | ⭐ 215 |
 | [XiaoDuoYa/AeVideoGen](https://github.com/XiaoDuoYa/AeVideoGen) | AeVideoGen Skill is a toolkit for creating commercial-grade AE-style product launches, feature explainers, UI interaction demos, and promotional videos. It provides an end-to-end workflow covering creative planning, reference video analysis, asset reconstruction, web-based motion rendering, and quality assurance. | Python | ⭐ 6 |
-| [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) | Repo for AI Agents The Definitive Guide | Jupyter Notebook | ⭐ 1513 |
-| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | Notes of the book System Desgin Interview - An Insider's Guide | - | ⭐ 15276 |
-| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. | TypeScript | ⭐ 1927 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,14 +39,14 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
+| [job-delivery-tracker](https://github.com/UnknownObject777/job-delivery-tracker) | - | Python | 2026-09-01 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-01 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-01 |
 | [system-design-notes-zh](https://github.com/UnknownObject777/system-design-notes-zh) | System Design Interview notes (Vol 1 & 2), fully translated into Simplified Chinese. 系统设计面试笔记中文版。 | - | 2026-08-31 |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-08-31 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-08-31 |
 | [droidvoice](https://github.com/UnknownObject777/droidvoice) | - | Kotlin | 2026-08-31 |
 | [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | HTML | 2026-08-31 |
 | [cv-automaker](https://github.com/UnknownObject777/cv-automaker) | JD 驱动的简历自动化维护系统（项目级 skill）：主档案多文件 Markdown + 按 JD 裁剪 + 多模板 HTML 产出 + 投递全生命周期归档 | HTML | 2026-08-27 |
 | [unslop-zh](https://github.com/UnknownObject777/unslop-zh) | - | - | 2026-08-26 |
-| [source-reading-methodology](https://github.com/UnknownObject777/source-reading-methodology) | 带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行 | - | 2026-08-23 |
 <!-- REPOS:END -->
 
 ## 📫 联系我
