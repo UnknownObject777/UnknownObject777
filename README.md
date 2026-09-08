@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) | 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。 | - | ⭐ 7297 |
+| [AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) | The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console. | Go | ⭐ 2343 |
+| [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | An awesome & curated list of best LLMOps tools for developers | Shell | ⭐ 5923 |
+| [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) | 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。 | - | ⭐ 7299 |
 | [xiaoheizi8/crush-cupid](https://github.com/xiaoheizi8/crush-cupid) | 每一支射出的箭，都是一次未说出口的喜欢 | Java | ⭐ 5 |
-| [xiaoheizi8/crush-skills](https://github.com/xiaoheizi8/crush-skills) | 与其迷恋幻影，不如迷恋Crush。欢迎加入数字永生！Inspired by colleague-skill（同事skill）. | Python | ⭐ 350 |
+| [xiaoheizi8/crush-skills](https://github.com/xiaoheizi8/crush-skills) | 与其迷恋幻影，不如迷恋Crush。欢迎加入数字永生！Inspired by colleague-skill（同事skill）. | Python | ⭐ 351 |
 | [HMYDK/AIGitCommit](https://github.com/HMYDK/AIGitCommit) | This plugin uses AI to automatically generate commit messages based on the changes in your code. | Java | ⭐ 82 |
 | [yuyuanweb/mcp-mianshiya-server](https://github.com/yuyuanweb/mcp-mianshiya-server) | 基于 Spring AI 的面试鸭搜索题目的 MCP Server 服务，快速让 AI 搜索企业面试真题和答案 | Java | ⭐ 138 |
-| [liyupi/mianshiya](https://github.com/liyupi/mianshiya) | 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、LLM面试题、Prompt工程面试题、系统设计面试题等1万多道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮 | TypeScript | ⭐ 5844 |
+| [liyupi/mianshiya](https://github.com/liyupi/mianshiya) | 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、LLM面试题、Prompt工程面试题、系统设计面试题等1万多道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮 | TypeScript | ⭐ 5848 |
 | [Mylszd/PaperBanana-CN](https://github.com/Mylszd/PaperBanana-CN) | AI 驱动的学术论文配图生成工具 — 全中文界面，一键安装，国内直连 | Python | ⭐ 262 |
 | [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | ⭐ 5109 |
-| [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) | Claude Code Skills | Shell | ⭐ 208 |
-| [openocta/openocta](https://github.com/openocta/openocta) | OpenOcta is an open-source AIOps Agent installed on Windows & macOS. | TypeScript | ⭐ 3068 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,8 +39,8 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-06 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-06 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-07 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-07 |
 | [job-delivery-tracker](https://github.com/UnknownObject777/job-delivery-tracker) | - | Python | 2026-09-01 |
 | [system-design-notes-zh](https://github.com/UnknownObject777/system-design-notes-zh) | System Design Interview notes (Vol 1 & 2), fully translated into Simplified Chinese. 系统设计面试笔记中文版。 | - | 2026-08-31 |
 | [droidvoice](https://github.com/UnknownObject777/droidvoice) | - | Kotlin | 2026-08-31 |
