@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
+| [sqlhabit/sql_schema_visualizer](https://github.com/sqlhabit/sql_schema_visualizer) | SQL schema visualisation built with ReactFlow. | TypeScript | ⭐ 278 |
+| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | TypeScript | ⭐ 64466 |
+| [orbi-build/orbi](https://github.com/orbi-build/orbi) | Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out | Python | ⭐ 87 |
+| [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) | 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。 | - | ⭐ 3122 |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | - | ⭐ 73811 |
+| [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of Site Reliability and Production Engineering resources. | - | ⭐ 13489 |
+| [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) | (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc... | Jupyter Notebook | ⭐ 542 |
 | [AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) | The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console. | Go | ⭐ 2343 |
-| [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | An awesome & curated list of best LLMOps tools for developers | Shell | ⭐ 5923 |
+| [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | An awesome & curated list of best LLMOps tools for developers | Shell | ⭐ 5926 |
 | [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) | 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。 | - | ⭐ 7299 |
-| [xiaoheizi8/crush-cupid](https://github.com/xiaoheizi8/crush-cupid) | 每一支射出的箭，都是一次未说出口的喜欢 | Java | ⭐ 5 |
-| [xiaoheizi8/crush-skills](https://github.com/xiaoheizi8/crush-skills) | 与其迷恋幻影，不如迷恋Crush。欢迎加入数字永生！Inspired by colleague-skill（同事skill）. | Python | ⭐ 351 |
-| [HMYDK/AIGitCommit](https://github.com/HMYDK/AIGitCommit) | This plugin uses AI to automatically generate commit messages based on the changes in your code. | Java | ⭐ 82 |
-| [yuyuanweb/mcp-mianshiya-server](https://github.com/yuyuanweb/mcp-mianshiya-server) | 基于 Spring AI 的面试鸭搜索题目的 MCP Server 服务，快速让 AI 搜索企业面试真题和答案 | Java | ⭐ 138 |
-| [liyupi/mianshiya](https://github.com/liyupi/mianshiya) | 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、LLM面试题、Prompt工程面试题、系统设计面试题等1万多道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮 | TypeScript | ⭐ 5848 |
-| [Mylszd/PaperBanana-CN](https://github.com/Mylszd/PaperBanana-CN) | AI 驱动的学术论文配图生成工具 — 全中文界面，一键安装，国内直连 | Python | ⭐ 262 |
-| [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | ⭐ 5109 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,14 +39,14 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-07 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-07 |
+| [orca](https://github.com/UnknownObject777/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | - | 2026-09-09 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-08 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-08 |
 | [job-delivery-tracker](https://github.com/UnknownObject777/job-delivery-tracker) | - | Python | 2026-09-01 |
 | [system-design-notes-zh](https://github.com/UnknownObject777/system-design-notes-zh) | System Design Interview notes (Vol 1 & 2), fully translated into Simplified Chinese. 系统设计面试笔记中文版。 | - | 2026-08-31 |
 | [droidvoice](https://github.com/UnknownObject777/droidvoice) | - | Kotlin | 2026-08-31 |
 | [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | HTML | 2026-08-31 |
 | [cv-automaker](https://github.com/UnknownObject777/cv-automaker) | JD 驱动的简历自动化维护系统（项目级 skill）：主档案多文件 Markdown + 按 JD 裁剪 + 多模板 HTML 产出 + 投递全生命周期归档 | HTML | 2026-08-27 |
-| [unslop-zh](https://github.com/UnknownObject777/unslop-zh) | - | - | 2026-08-26 |
 <!-- REPOS:END -->
 
 ## 📫 联系我
