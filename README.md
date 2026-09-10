@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] | Python | ⭐ 58409 |
+| [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | Agent traces you can run, not just read. | Python | ⭐ 283 |
+| [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | Forward deployed engineering skills for AI coding agents. | JavaScript | ⭐ 268 |
+| [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) | Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates. | PHP | ⭐ 3595 |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. | TypeScript | ⭐ 14216 |
 | [sqlhabit/sql_schema_visualizer](https://github.com/sqlhabit/sql_schema_visualizer) | SQL schema visualisation built with ReactFlow. | TypeScript | ⭐ 278 |
-| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | TypeScript | ⭐ 64466 |
-| [orbi-build/orbi](https://github.com/orbi-build/orbi) | Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out | Python | ⭐ 87 |
+| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | TypeScript | ⭐ 65304 |
+| [orbi-build/orbi](https://github.com/orbi-build/orbi) | Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out | Python | ⭐ 91 |
 | [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) | 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。 | - | ⭐ 3122 |
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | - | ⭐ 73811 |
-| [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of Site Reliability and Production Engineering resources. | - | ⭐ 13489 |
-| [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) | (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc... | Jupyter Notebook | ⭐ 542 |
-| [AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) | The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console. | Go | ⭐ 2343 |
-| [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | An awesome & curated list of best LLMOps tools for developers | Shell | ⭐ 5926 |
-| [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) | 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。 | - | ⭐ 7299 |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | - | ⭐ 73839 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -40,8 +40,8 @@
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
 | [orca](https://github.com/UnknownObject777/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | - | 2026-09-09 |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-08 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-08 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-09 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-09 |
 | [job-delivery-tracker](https://github.com/UnknownObject777/job-delivery-tracker) | - | Python | 2026-09-01 |
 | [system-design-notes-zh](https://github.com/UnknownObject777/system-design-notes-zh) | System Design Interview notes (Vol 1 & 2), fully translated into Simplified Chinese. 系统设计面试笔记中文版。 | - | 2026-08-31 |
 | [droidvoice](https://github.com/UnknownObject777/droidvoice) | - | Kotlin | 2026-08-31 |
