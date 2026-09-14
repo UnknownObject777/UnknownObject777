@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | Go | ⭐ 22703 |
-| [Azhi-ss/academic-figure-skills](https://github.com/Azhi-ss/academic-figure-skills) | AI skills for academic paper figures: repo analysis, figure planning, colorblind palettes, JSON figure specs. Install: npx skills add Azhi-ss/academic-figure-skills | Python | ⭐ 106 |
-| [HalfAI1102/anthropic-art](https://github.com/HalfAI1102/anthropic-art) | Generate full-background Anthropic-style editorial illustrations with verified palette and hand-drawn visual rules. | - | ⭐ 437 |
-| [victordibia/designing-multiagent-systems](https://github.com/victordibia/designing-multiagent-systems) | Building LLM-Enabled Multi Agent Applications from Scratch | Python | ⭐ 1164 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | Python | ⭐ 82329 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | JavaScript | ⭐ 257209 |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] | Python | ⭐ 58600 |
-| [zenml-io/kitaru](https://github.com/zenml-io/kitaru) | Agent traces you can run, not just read. | Python | ⭐ 284 |
-| [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | Forward deployed engineering skills for AI coding agents. | JavaScript | ⭐ 529 |
-| [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) | Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates. | PHP | ⭐ 3618 |
+| [tommy0103/obelisk](https://github.com/tommy0103/obelisk) | Every past session, subagent, and workflow -- queryable by your agent, browsable by you | JavaScript | ⭐ 485 |
+| [google/artemis](https://github.com/google/artemis) | ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark. | Python | ⭐ 4809 |
+| [simonw/commit-rewriter](https://github.com/simonw/commit-rewriter) | Python web app to help rewrite your commit messages | Python | ⭐ 3 |
+| [Azhi-ss/Azhi_skills](https://github.com/Azhi-ss/Azhi_skills) | - | - | ⭐ 1 |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | Go | ⭐ 22944 |
+| [Azhi-ss/academic-figure-skills](https://github.com/Azhi-ss/academic-figure-skills) | AI skills for academic paper figures: repo analysis, figure planning, colorblind palettes, JSON figure specs. Install: npx skills add Azhi-ss/academic-figure-skills | Python | ⭐ 109 |
+| [HalfAI1102/anthropic-art](https://github.com/HalfAI1102/anthropic-art) | Generate full-background Anthropic-style editorial illustrations with verified palette and hand-drawn visual rules. | - | ⭐ 436 |
+| [victordibia/designing-multiagent-systems](https://github.com/victordibia/designing-multiagent-systems) | Building LLM-Enabled Multi Agent Applications from Scratch | Python | ⭐ 1250 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | Python | ⭐ 82386 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | JavaScript | ⭐ 257863 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,14 +39,14 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
+| [open-design](https://github.com/UnknownObject777/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | - | 2026-09-13 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-13 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-13 |
 | [orca](https://github.com/UnknownObject777/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | - | 2026-09-12 |
 | [deer-flow](https://github.com/UnknownObject777/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | - | 2026-09-12 |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-09-12 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-09-12 |
 | [job-delivery-tracker](https://github.com/UnknownObject777/job-delivery-tracker) | - | Python | 2026-09-01 |
 | [system-design-notes-zh](https://github.com/UnknownObject777/system-design-notes-zh) | System Design Interview notes (Vol 1 & 2), fully translated into Simplified Chinese. 系统设计面试笔记中文版。 | - | 2026-08-31 |
 | [droidvoice](https://github.com/UnknownObject777/droidvoice) | - | Kotlin | 2026-08-31 |
-| [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | HTML | 2026-08-31 |
 <!-- REPOS:END -->
 
 ## 📫 联系我
