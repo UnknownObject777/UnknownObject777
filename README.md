@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) | Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记 | Java | ⭐ 5189 |
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | Python | ⭐ 7060 |
-| [google/ax](https://github.com/google/ax) | Google's open agentic orchestration runtime | Go | ⭐ 13148 |
-| [agent-infra/sandbox](https://github.com/agent-infra/sandbox) | All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container. | Python | ⭐ 6070 |
-| [FullAgent/fulling](https://github.com/FullAgent/fulling) | Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra. | TypeScript | ⭐ 2444 |
-| [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS | Java | ⭐ 29232 |
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | Fastest and cheapest web agent | Python | ⭐ 22135 |
-| [apache/maka](https://github.com/apache/maka) | Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. | TypeScript | ⭐ 5691 |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | Go | ⭐ 43911 |
-| [tommy0103/obelisk](https://github.com/tommy0103/obelisk) | Every past session, subagent, and workflow -- queryable by your agent, browsable by you | JavaScript | ⭐ 564 |
+| [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) | Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming. For more advanced routing choose hosted OrcaRouter | Python | ⭐ 1726 |
+| [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | A Claude Code plugin that helps you learn how to build while AI writes the code. | Python | ⭐ 2732 |
+| [elstongun/leviathan](https://github.com/elstongun/leviathan) | **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index. | Rust | ⭐ 647 |
+| [robotbird/pi-durable-book](https://github.com/robotbird/pi-durable-book) | - | - | ⭐ 30 |
+| [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) | Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记 | Java | ⭐ 5188 |
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | Python | ⭐ 7517 |
+| [google/ax](https://github.com/google/ax) | Google's open agentic orchestration runtime | Go | ⭐ 13229 |
+| [agent-infra/sandbox](https://github.com/agent-infra/sandbox) | All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container. | Python | ⭐ 6069 |
+| [FullAgent/fulling](https://github.com/FullAgent/fulling) | Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra. | TypeScript | ⭐ 2446 |
+| [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS | Java | ⭐ 29250 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,14 +39,14 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-10-05 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-10-05 |
+| [academic-visual-library](https://github.com/UnknownObject777/academic-visual-library) | Multimodal-first academic figures for Codex: reference-led drawing, editable neural modules, draw.io/PPT templates and SVG assets. Inspired by academic-figure-skills. | Python | 2026-10-06 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-10-06 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-10-06 |
 | [WeKnora](https://github.com/UnknownObject777/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | - | 2026-09-24 |
 | [system-design-notes-zh](https://github.com/UnknownObject777/system-design-notes-zh) | System Design Interview notes (Vol 1 & 2), fully translated into Simplified Chinese. 系统设计面试笔记中文版。 | HTML | 2026-09-15 |
 | [open-design](https://github.com/UnknownObject777/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | - | 2026-09-13 |
 | [orca](https://github.com/UnknownObject777/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | - | 2026-09-12 |
 | [deer-flow](https://github.com/UnknownObject777/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | - | 2026-09-12 |
-| [job-delivery-tracker](https://github.com/UnknownObject777/job-delivery-tracker) | - | Python | 2026-09-01 |
 <!-- REPOS:END -->
 
 ## 📫 联系我
