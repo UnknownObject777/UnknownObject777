@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [tw93/Waza](https://github.com/tw93/Waza) | 🥷 Engineering habits you already know, turned into skills AI assistants can run. | Python | ⭐ 7266 |
-| [alibaba/COLA](https://github.com/alibaba/COLA) | 🥤 COLA: Clean Object-oriented & Layered Architecture | Java | ⭐ 13067 |
-| [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) | Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming. For more advanced routing choose hosted OrcaRouter | Python | ⭐ 1744 |
-| [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. | Python | ⭐ 3428 |
-| [elstongun/leviathan](https://github.com/elstongun/leviathan) | Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index. | Rust | ⭐ 744 |
-| [robotbird/pi-durable-book](https://github.com/robotbird/pi-durable-book) | - | - | ⭐ 40 |
-| [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) | Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记 | Java | ⭐ 5189 |
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | Python | ⭐ 8742 |
-| [google/ax](https://github.com/google/ax) | Google's open agentic orchestration runtime | Go | ⭐ 13451 |
-| [agent-infra/sandbox](https://github.com/agent-infra/sandbox) | All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container. | Python | ⭐ 6141 |
+| [realchendahuang/podcast-vault](https://github.com/realchendahuang/podcast-vault) | 播客金库 · 全球精选硬核播客与深度长谈的开源知识库：高精度逐字稿、核心认知速读、底层心智模型与高光金句索引 / Open-source curated podcast transcripts, mental models & key insights | - | ⭐ 6 |
+| [realchendahuang/open-x-analytics](https://github.com/realchendahuang/open-x-analytics) | 一个独立开发者4个月从0到1万粉的完整真实案例：全量推文与后台运营数据无偿开源，供大家分析与蒸馏，持续更新。 | Python | ⭐ 11 |
+| [openfaas/faas](https://github.com/openfaas/faas) | OpenFaaS - Serverless Functions Made Simple | Go | ⭐ 26245 |
+| [darrenprx/lolPing](https://github.com/darrenprx/lolPing) | League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds. | TypeScript | ⭐ 889 |
+| [tw93/Waza](https://github.com/tw93/Waza) | 🥷 Engineering habits you already know, turned into skills AI assistants can run. | Python | ⭐ 7282 |
+| [alibaba/COLA](https://github.com/alibaba/COLA) | 🥤 COLA: Clean Object-oriented & Layered Architecture | Java | ⭐ 13069 |
+| [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) | Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming. For more advanced routing choose hosted OrcaRouter | Python | ⭐ 1746 |
+| [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. | Python | ⭐ 3490 |
+| [elstongun/leviathan](https://github.com/elstongun/leviathan) | Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index. | Rust | ⭐ 781 |
+| [robotbird/pi-durable-book](https://github.com/robotbird/pi-durable-book) | - | - | ⭐ 41 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,14 +39,14 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-10-11 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-10-11 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-10-12 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-10-12 |
+| [lolPing](https://github.com/UnknownObject777/lolPing) | League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds. | - | 2026-10-12 |
 | [ai-agent-book](https://github.com/UnknownObject777/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | Python | 2026-10-09 |
 | [system-design-notes-zh](https://github.com/UnknownObject777/system-design-notes-zh) | System Design Interview notes (Vol 1 & 2), fully translated into Simplified Chinese. 系统设计面试笔记中文版。 | HTML | 2026-10-09 |
 | [academic-visual-library](https://github.com/UnknownObject777/academic-visual-library) | Multimodal-first academic figures for Codex: reference-led drawing, editable neural modules, draw.io/PPT templates and SVG assets. Inspired by academic-figure-skills. | Python | 2026-10-06 |
 | [WeKnora](https://github.com/UnknownObject777/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | - | 2026-09-24 |
 | [open-design](https://github.com/UnknownObject777/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | - | 2026-09-13 |
-| [orca](https://github.com/UnknownObject777/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | - | 2026-09-12 |
 <!-- REPOS:END -->
 
 ## 📫 联系我
