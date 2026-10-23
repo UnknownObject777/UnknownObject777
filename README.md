@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. | Python | ⭐ 7881 |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | ⭐ 367582 |
+| [alibaba/qz-browser-agent](https://github.com/alibaba/qz-browser-agent) | Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model. | JavaScript | ⭐ 117 |
+| [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. | Python | ⭐ 7879 |
 | [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) | The batteries included agent harness. | TypeScript | ⭐ 1616 |
 | [alint-dev/alint](https://github.com/alint-dev/alint) | 🤖🤮 Hate the yuck codes that agents generated? Try `alint`, a ESLint like toolchain for intent driven code check, freeze your skills, AGENTS.md to lint rules | TypeScript | ⭐ 135 |
 | [realchendahuang/podcast-vault](https://github.com/realchendahuang/podcast-vault) | 播客金库 · 全球精选硬核播客与深度长谈的开源知识库：高精度逐字稿、核心认知速读、底层心智模型与高光金句索引 / Open-source curated podcast transcripts, mental models & key insights | - | ⭐ 8 |
 | [realchendahuang/open-x-analytics](https://github.com/realchendahuang/open-x-analytics) | 一个独立开发者4个月从0到1万粉的完整真实案例：全量推文与后台运营数据无偿开源，供大家分析与蒸馏，持续更新。 | TypeScript | ⭐ 35 |
-| [openfaas/faas](https://github.com/openfaas/faas) | OpenFaaS - Serverless Functions Made Simple | Go | ⭐ 26251 |
-| [darrenprx/lolPing](https://github.com/darrenprx/lolPing) | League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds. | TypeScript | ⭐ 1726 |
-| [tw93/Waza](https://github.com/tw93/Waza) | 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run. | Python | ⭐ 7339 |
-| [alibaba/COLA](https://github.com/alibaba/COLA) | 🥤 COLA: Clean Object-oriented & Layered Architecture | Java | ⭐ 13076 |
-| [Continuum-AI-Corp/OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) | Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming. For more advanced routing choose hosted OrcaRouter | Python | ⭐ 1429 |
+| [openfaas/faas](https://github.com/openfaas/faas) | OpenFaaS - Serverless Functions Made Simple | Go | ⭐ 26252 |
+| [darrenprx/lolPing](https://github.com/darrenprx/lolPing) | League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds. | TypeScript | ⭐ 1767 |
+| [tw93/Waza](https://github.com/tw93/Waza) | 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run. | Python | ⭐ 7352 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,8 +39,8 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-10-21 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-10-21 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-10-22 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-10-22 |
 | [lolPing](https://github.com/UnknownObject777/lolPing) | League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds. | - | 2026-10-12 |
 | [ai-agent-book](https://github.com/UnknownObject777/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | Python | 2026-10-09 |
 | [system-design-notes-zh](https://github.com/UnknownObject777/system-design-notes-zh) | System Design Interview notes (Vol 1 & 2), fully translated into Simplified Chinese. 系统设计面试笔记中文版。 | HTML | 2026-10-09 |
