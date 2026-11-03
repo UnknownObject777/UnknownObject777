@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
+| [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. | TypeScript | ⭐ 11608 |
 | [nur-zaman/git-recompose-skill](https://github.com/nur-zaman/git-recompose-skill) | Agent skill to safely recompose messy git commits before a PR — isolates work in a worktree, enforces a review gate, and never touches the original branch until you approve. | - | ⭐ 10 |
-| [umijs/dumi](https://github.com/umijs/dumi) | 📖 Static Site Generator for component library development | JavaScript | ⭐ 3796 |
-| [wangzan101/Mika](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for you. | Kotlin | ⭐ 4377 |
+| [umijs/dumi](https://github.com/umijs/dumi) | 📖 Static Site Generator for component library development | JavaScript | ⭐ 3795 |
+| [wangzan101/Mika](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for you. | Kotlin | ⭐ 5651 |
 | [wuji-labs/nopua](https://github.com/wuji-labs/nopua) | 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love. | Python | ⭐ 1403 |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 | TypeScript | ⭐ 12894 |
-| [Ikaleio/lm-detector](https://github.com/Ikaleio/lm-detector) | Model fingerprint detection with a shared Web and Bun CLI reference bank | TypeScript | ⭐ 1366 |
-| [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | TypeScript | ⭐ 26362 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 | TypeScript | ⭐ 12918 |
+| [Ikaleio/lm-detector](https://github.com/Ikaleio/lm-detector) | Model fingerprint detection with a shared Web and Bun CLI reference bank | TypeScript | ⭐ 1528 |
+| [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | TypeScript | ⭐ 26366 |
 | [kubai087/lumno-web](https://github.com/kubai087/lumno-web) | Source of lumno.kubai.design, the website of the Lumno browser extension: an Astro + React site in ten languages with animated product demos. | TypeScript | ⭐ 38 |
-| [ZJU-LLMs/Agent-Kernel](https://github.com/ZJU-LLMs/Agent-Kernel) | A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs | Python | ⭐ 563 |
-| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | A book for Learning the Foundations of LLMs | - | ⭐ 18392 |
+| [ZJU-LLMs/Agent-Kernel](https://github.com/ZJU-LLMs/Agent-Kernel) | A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs | Python | ⭐ 565 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,8 +39,8 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-11-01 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-11-01 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-11-02 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-11-02 |
 | [academic-visual-library](https://github.com/UnknownObject777/academic-visual-library) | Multimodal-first academic figures for Codex: reference-led drawing, editable neural modules, draw.io/PPT templates and SVG assets. Inspired by academic-figure-skills. | Python | 2026-10-24 |
 | [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | HTML | 2026-10-24 |
 | [paperFigue-canvas](https://github.com/UnknownObject777/paperFigue-canvas) | 科研论文绘图的工作台 | - | 2026-10-20 |
