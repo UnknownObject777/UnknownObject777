@@ -22,16 +22,16 @@
 <!-- STARS:START -->
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | --- |
-| [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) | 澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness. | JavaScript | ⭐ 955 |
+| [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) | 澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness. | JavaScript | ⭐ 975 |
 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | A framework for building agentic apps | TypeScript | ⭐ 7711 |
-| [hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli | JavaScript | ⭐ 1411 |
-| [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) | YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控 | Python | ⭐ 5013 |
-| [LiuMengxuan04/MiniCode](https://github.com/LiuMengxuan04/MiniCode) | A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation. Multi-language support: TypeScript , Python and Rust implementations available now. | TypeScript | ⭐ 1165 |
-| [Adkid-Zephyr/anti-defensive-writing-Skill](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) | 极致轻量｜阻止论文的防御性写作 \| Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) | Python | ⭐ 6401 |
+| [hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli | JavaScript | ⭐ 1494 |
+| [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) | YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控 | Python | ⭐ 5019 |
+| [LiuMengxuan04/MiniCode](https://github.com/LiuMengxuan04/MiniCode) | A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation. Multi-language support: TypeScript , Python and Rust implementations available now. | TypeScript | ⭐ 1167 |
+| [Adkid-Zephyr/anti-defensive-writing-Skill](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) | 极致轻量｜阻止论文的防御性写作 \| Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN) | Python | ⭐ 6538 |
 | [Arcadiastra/ieee-paper-writing-zh](https://github.com/Arcadiastra/ieee-paper-writing-zh) | 使用简体中文规划、撰写、修改和审查 IEEE 学术论文写作的模块化 Agent Skill，涵盖章节写作、贡献论证、引用核验与投稿规范检查。 | Python | ⭐ 7 |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | A Claude skill that turns vibecoded, AI-looking UI into a designed interface | JavaScript | ⭐ 16893 |
-| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | Towards a More Autonomous Agent System | TypeScript | ⭐ 23365 |
-| [charliewwdev/OpenMontage](https://github.com/charliewwdev/OpenMontage) | Open-source AI studio for short dramas, short videos and product ads: one-line idea → script, cast, storyboard, video, voice, edit. Self-hosted. \| AI 短剧/短视频工坊 | Python | ⭐ 47 |
+| [heydamir/unslop](https://github.com/heydamir/unslop) | A Claude skill that turns vibecoded, AI-looking UI into a designed interface | JavaScript | ⭐ 17403 |
+| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | Towards a More Autonomous Agent System | TypeScript | ⭐ 23571 |
+| [charliewwdev/OpenMontage](https://github.com/charliewwdev/OpenMontage) | Open-source AI studio for short dramas, short videos and product ads: one-line idea → script, cast, storyboard, video, voice, edit. Self-hosted. \| AI 短剧/短视频工坊 | Python | ⭐ 48 |
 <!-- STARS:END -->
 
 ## 🔄 最近更新的仓库
@@ -39,8 +39,8 @@
 <!-- REPOS:START -->
 | 仓库 | 简介 | 语言 | 最近更新 |
 | --- | --- | --- | --- |
-| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-11-15 |
-| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-11-15 |
+| [UnknownObject777.github.io](https://github.com/UnknownObject777/UnknownObject777.github.io) | - | HTML | 2026-11-16 |
+| [UnknownObject777](https://github.com/UnknownObject777/UnknownObject777) | - | Python | 2026-11-16 |
 | [academic-visual-library](https://github.com/UnknownObject777/academic-visual-library) | Multimodal-first academic figures for Codex: reference-led drawing, editable neural modules, draw.io/PPT templates and SVG assets. Inspired by academic-figure-skills. | Python | 2026-10-24 |
 | [chenhao-skills](https://github.com/UnknownObject777/chenhao-skills) | - | HTML | 2026-10-24 |
 | [paperFigue-canvas](https://github.com/UnknownObject777/paperFigue-canvas) | 科研论文绘图的工作台 | - | 2026-10-20 |
